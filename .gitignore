@@ -1,0 +1,16 @@
+# your API key: never commit it
+.env
+
+# outputs of the scripts
+out/
+trend_out/
+studio_jobs/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# macOS
+.DS_Store
